@@ -1,0 +1,1 @@
+console.log("lorum ipsum quick brown fox");
