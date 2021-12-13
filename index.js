@@ -1,1 +1,1 @@
-console.log("lorum ipsum quick brown fox");
+console.log("lorum ipsum");
